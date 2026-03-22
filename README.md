@@ -10,6 +10,7 @@ As usual, this plugin wouldn't be possible without the help of:
 - Zuckung (troubleshooting, in addition, this plugin was inspired by and based on kestrel.unlocks)
 - Zoura (troubleshooting)
 - timeout.fu (troubleshooting)
+- Nova (upload to official plugin repo)
 - kaiboy, aka k.AI (sprites)
 - Airhead_ (formatting)
 
