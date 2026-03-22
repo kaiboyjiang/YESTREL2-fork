@@ -6,7 +6,7 @@ ship "Yestrel"
 	thumbnail "thumbnail/yestrel"
 	attributes
 		category "Heavy Warship"
-		"cost" 29400000
+		"cost" 14700000
 		"shields" 22400
 		"hull" 8700
 		"required crew" 64
@@ -14,7 +14,7 @@ ship "Yestrel"
 		"mass" 2135
 		"drag" 19
 		"heat dissipation" .352
-		"fuel capacity" 500
+		"fuel capacity" 600
 		"cargo space" 120
 		"outfit space" 810
 		"weapon capacity" 430
