@@ -7,12 +7,13 @@ Why yes, this is the result of incorporating all possible variants of the Kestre
 The Yestrel will be available at Tarazed Shipyards 4 months after you complete the Kestrel mission chain and have a variant of the Kestrel unlocked. Stay tuned for updates from Charles Atinoda, chief ship designer of Tarazed Shipyards!
 
 As usual, this plugin wouldn't be possible without the help of:
-- Zuckung (troubleshooter, in addition, this plugin was inspired by and based on kestrel.unlocks)
-- Zoura (troubleshooter)
-- timeout.fu (troubleshooter)
+- Zuckung (troubleshooting, in addition, this plugin was inspired by and based on kestrel.unlocks)
+- Zoura (troubleshooting)
+- timeout.fu (troubleshooting)
 - kaiboy, aka k.AI (sprites)
+- Airhead_ (formatting)
 
-Made for Endless Sky version 0.10.14
+Made for Endless Sky version 0.10.14+
 
 # Download
 To download the latest release - which is less likely to have bugs - check out the "Releases" page. If you want the cutting-edge build, press the green "Code" button and then "download as zip". If you're on mobile and cannot see the button, open the page in desktop mode!
